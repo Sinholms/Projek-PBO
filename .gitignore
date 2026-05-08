@@ -1,0 +1,21 @@
+# Output hasil compile (Build & Dist)
+build/
+dist/
+nbbuild/
+nbdist/
+*.class
+
+# Folder private dan konfigurasi lokal NetBeans
+nbproject/private/
+build.properties
+project.properties
+
+# File log atau temporary
+*.log
+*.tmp
+*.bak
+*.swp
+
+# File sistem operasi (opsional tapi disarankan)
+.DS_Store
+Thumbs.db
