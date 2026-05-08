@@ -8,10 +8,7 @@ nbdist/
 # Folder private dan konfigurasi lokal NetBeans
 nbproject/private/
 build.properties
-<<<<<<< HEAD
-=======
 project.properties
->>>>>>> 880d4241551005d674a4f93191663b481858e74e
 
 # File log atau temporary
 *.log
